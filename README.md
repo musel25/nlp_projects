@@ -1,4 +1,4 @@
-# NLP Mini-Models — Internship-Ready Showcase
+# NLP Mini-Models 
 
 A compact, well-documented NLP showcase featuring three curated models: a DistilBERT sentiment classifier (PyTorch/Transformers), a fast Levenshtein spell checker, and a Keras RNN text generator with temperature control. Designed to be small enough to grok in an interview, but rich enough to discuss modeling choices, trade-offs, and extension ideas.
 
